@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "todo": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "make todo app demo work",
+      "status: "inprogress"
     }
   ],
   "profile": {
